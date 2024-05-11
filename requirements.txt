@@ -3,3 +3,7 @@ streamlit
 cohere
 pydantic==2.7.1
 fastapi "uvicorn[standard]"
+cinemagoer==2022.12.27
+pandas==1.5.3
+torch==2.0.0
+
